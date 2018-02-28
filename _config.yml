@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Otters: An Awesome Creature!
+email: tjharris52804@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a website all about otters. It is a reliable, useful website with a lot of research and work put into it. 
+  It was made to help raise awareness about otters and to help them. When you look at this website, be sure to do what
+  you can to help!
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.yourdomain.com" # the base hostname & protocol for your site
+twitter_username: N/A
+github_username:  MasterCheezOtter
 
 # Build settings
 markdown: kramdown
